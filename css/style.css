@@ -450,27 +450,34 @@ TOOLS
   text-align: right; }
 
 /* alerts & notices */
-.alert {
-  margin: 10px;
-  padding: 5px 18px;
-  border: 1px solid; }
+/*
+.alert { 
+	margin: 10px; 
+	padding: 5px 18px; 
+	border: 1px solid; 
+}
 
-.help {
-  border-color: #e8dc59;
-  background: #ebe16f; }
+.help { 
+	border-color: darken($yellow, 5%); 
+	background: $yellow; 
+}
 
-.info {
-  border-color: #bfe4f4;
-  background: #d5edf8; }
+.info { 
+	border-color: darken($blue, 5%); 
+	background: $blue; 
+}
 
-.error {
-  border-color: #f8cdce;
-  background: #fbe3e4; }
+.error { 
+	border-color: darken($red, 5%); 
+	background: $red; 
+}
 
-.success {
-  border-color: #deeaae;
-  background: #e6efc2; }
-
+.success { 
+	border-color: darken($green, 5%); 
+	background: $green; 
+} 
+ 
+*/
 /*********************
 BORDER RADIUS
 *********************/
