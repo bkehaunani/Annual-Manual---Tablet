@@ -842,7 +842,7 @@ input,
 button,
 select,
 textarea {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Franklin Gothic Book", "Helvetica Neue", Helvetica, Arial, sans-serif;
   box-sizing: border-box; }
 
 label {
@@ -1122,7 +1122,7 @@ body {
   margin: 0;
   padding: 0;
   width: 100%;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Franklin Gothic Book", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.5em;
   color: black; }
 
