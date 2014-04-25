@@ -1,0 +1,69 @@
+<style>
+.text-box1 {
+	background: rgba(255,255,255,.8);
+	padding: 10px;
+	font-size: .85em;
+	color: black;
+}
+.text-box h1 {
+	font-size: 2em;
+	text-transform: uppercase;
+}
+.text-box h2 {
+	font-size: 1.25em;
+	text-transform: uppercase;
+}
+.text-right { text-align: right; }
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+
+.text-box-multi-col {
+	background: rgba(255,255,255,.8);
+	padding: 10px 40px;
+	font-size: .85em;
+	color: black;
+	-moz-column-count: 2;
+	-moz-column-gap: 10px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 10px;
+	column-count: 2;
+	column-gap: 40px;
+}
+.text-box2-multi-col {
+	background: rgba(255,255,255,.8);
+	padding: 10px 40px;
+	font-size: .85em;
+	color: black;
+	-moz-column-count: 3;
+	-moz-column-gap: 10px;
+	-webkit-column-count: 3;
+	-webkit-column-gap: 10px;
+	column-count: 3;
+	column-gap: 40px;
+}
+
+.text-box2 {
+	background: rgba(255,255,255,.8);
+	padding: 10px 40px;
+	font-size: .85em;
+	color: black;
+}
+.text-box p {
+	font-size: 1.25em;
+	margin-bottom: 20px;
+}
+.bucket-list {
+	-moz-column-count: 2;
+	-moz-column-gap: 10px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 10px;
+	column-count: 2;
+	column-gap: 40px;
+}
+.bucket-list ul {
+	list-style-position:inside;
+	list-style-type: square !important;
+}
+
+</style>
+
